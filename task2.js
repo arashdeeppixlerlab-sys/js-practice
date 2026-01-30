@@ -121,7 +121,7 @@ while (count < 100) {
 
 
 
-// 19. Create a function that will return in an array the first “p” prime numbers greater than “n”. Example: n = 10, p = 5
+// 19. Create a function   that will return in an array the first “p” prime numbers greater than “n”. Example: n = 10, p = 5
 
 const getPrime = (n, p) => {
     let start = n + 1;
